@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    color: grey;
+}
+
+.container {
+    width: 962px;
+    margin: auto;
+}
+
+.bg1 {
+    background-color: #333333;
+}
+
+.fleft {
+    float: left;
+}
+
+.fright {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    color: #333333;
+    padding: 2% 0;
+}
+
+nav h2 {
+    font-size: 25px;
+}
+
+nav li {
+    list-style-type: none;
+    padding: 2% 2%;
+    float: right;
+    margin-top: -5%;
+    border-top: 1px solid #dedede;
+    border-bottom: 1px solid #dedede;
+}
+
+a:hover {
+    color: orange;
+}
+
+section {
+    overflow: auto;
+}
+
+.row1 {
+    width: 960px;
+    overflow: auto;
+}
+
+.bottom {
+    width: 30%;
+    margin-left: 3%;
+    float: left;
+}
+
+.bottom img {
+    border: 1px solid #dedede;
+    padding: 2%;
+    margin: 0 3% 2% 0;
+}
+
+.bottom h2 {
+    margin: 5% 0 5% 0;
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 15px;
+    color: orange;
+}
+
+.bottom i {
+    color: orange;
+    font-size: 10px;
+}
+
+.bottom li {
+    list-style-type: none;
+    border-bottom: 1px dotted darkslategray;
+    padding: 2% 0;
+}
+
+.row2 {
+    width: 960px;
+    float: left;
+    margin: 2% 0;
+}
+
+.row2_left {
+    width: 600px;
+    font-size: 15px;
+    float: left;
+}
+
+.row2_left p,
+h2 {
+    margin: 2% 0;
+}
+
+.row2_right {
+    width: 290px;
+    font-size: 15px;
+    float: right;
+}
+
+.row2_right span {
+    padding-bottom: 5%;
+}
+
+.row2_right h3 {
+    font-size: 20px;
+    font-weight: 800;
+    padding-bottom: 4%;
+    border-bottom: 1px solid #dedede;
+}
+
+footer {
+    margin: 5% 0;
+}
+
+.fline {
+    border-top: 1px solid #dedede;
+    padding: 18px;
+}
